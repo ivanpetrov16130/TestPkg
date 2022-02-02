@@ -1,5 +1,5 @@
-import Trg1
-import Trg2
+@_exported import Trg1
+@_exported import Trg2
 
 public struct TestPkg {
     public private(set) var text = "Hello, World!"
